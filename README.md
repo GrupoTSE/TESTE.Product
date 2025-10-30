@@ -1,14 +1,6 @@
 # TESTE.Product
 
-Perfeito 👍
-Segue abaixo uma **versão completa e bem estruturada** do texto que você pode **copiar direto para um e-mail** de avaliação técnica.
-Ele já está formatado de forma clara e profissional, com todos os requisitos que você pediu.
-
----
-
-## 📩 **Avaliação Técnica – Desenvolvedor C# / .NET**
-
-Olá [NOME DO CANDIDATO],
+Olá,
 
 Como parte do processo técnico, gostaríamos que você realizasse uma breve **tarefa prática** para avaliarmos seus conhecimentos em **C# / .NET**, **Entity Framework**, **boas práticas de arquitetura** e, de forma opcional, **CQRS** e **OData**.
 
